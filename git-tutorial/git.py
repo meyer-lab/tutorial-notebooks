@@ -6,9 +6,9 @@ def hello():
     print("one more line")
     print("Hello Peter!")
     print("Hello!")
+    print("Pushing in Master")
     
 def learn git():
     x = 2
     x = x + 3 +2
     return x
- 
