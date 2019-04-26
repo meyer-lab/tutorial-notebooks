@@ -9,5 +9,6 @@ def hello():
     
 def learn git():
     x = 2
+    x = x + 3 +2
     return x
  
